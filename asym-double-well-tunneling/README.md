@@ -9,14 +9,14 @@ This repository contains Python codes and Jupyter notebooks accompanying the man
 
 ---
 
-## 🧩 Manuscript Status
+## Manuscript Status
 
 *This repository accompanies a manuscript currently under review.*  
 Once the paper is accepted, this README will be updated to include the journal citation and DOI.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -40,7 +40,7 @@ Once the paper is accepted, this README will be updated to include the journal c
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Clone the repository and install dependencies:
 
@@ -54,7 +54,7 @@ To reproduce figures from the manuscript, open and execute the notebooks in the 
 
 ---
 
-## 🧠 Description
+## Description
 
 The repository contains two complementary numerical approaches to study tunneling in an asymmetric double-well potential:
 
@@ -66,13 +66,13 @@ The repository contains two complementary numerical approaches to study tunnelin
 
 ---
 
-## 📘 License
+## License
 
 This work is distributed under the **MIT License**.
 
 ---
 
-## 🏷️ Keywords
+## Keywords
 
 Quantum tunneling, asymmetric double-well potential, Crank–Nicolson method,  
 Ehrenfest dynamics, dynamical systems, wavepacket dynamics, nonlinear physics.
