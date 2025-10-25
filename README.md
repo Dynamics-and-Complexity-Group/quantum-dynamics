@@ -6,7 +6,7 @@ This repository contains Python codes and Jupyter notebooks accompanying the man
 > **Arghya Dutta** (ORCID: [0000-0003-2116-6475])  arghya.d@srmap.edu.in
 > Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
 
-Any comments or suggestions are most welcome.
+**Any comments or suggestions are most welcome.
 ---
 
 ## Manuscript Status
@@ -14,7 +14,7 @@ Any comments or suggestions are most welcome.
 *This repository accompanies a manuscript currently under review.*  
 Once the paper is accepted, this README will be updated to include the journal citation and DOI.
 
-Last updated: October 25, 2025
+***Last updated: October 25, 2025
 ---
 
 ## Repository Structure
