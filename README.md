@@ -1,20 +1,17 @@
 ## Dynamical System and Schrödinger Simulations for Quantum Tunneling in an Asymmetric Double-Well Potential
 
-This repository contains Python codes and Jupyter notebooks accompanying the manuscript:
+This repository accompanies the manuscript titled “Dynamical system and Schrödinger simulations for quantum tunneling in an asymmetric double-well potential,” currently under review.
 
-> **Swetamber Das** (ORCID: [0000-0002-2669-0842]) swetamber.p@srmap.edu.in
-> **Arghya Dutta** (ORCID: [0000-0003-2116-6475])  arghya.d@srmap.edu.in
+Once accepted, this README will be updated with the journal citation and DOI.
+
+Last updated: October 25, 2025
+
+**Authors:**  
+> **Swetamber Das** (ORCID: [0000-0002-2669-0842]) — swetamber.p@srmap.edu.in  
+> **Arghya Dutta** (ORCID: [0000-0003-2116-6475]) — arghya.d@srmap.edu.in  
 > Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
 
-*Any comments or suggestions are most welcome.
----
-
-## Manuscript Status
-
-*This repository accompanies a manuscript currently under review.*  
-Once the paper is accepted, this README will be updated to include the journal citation and DOI.
-
-*Last updated: October 25, 2025
+We welcome any comments or suggestions for improvement.
 ---
 
 ## Repository Structure
@@ -24,7 +21,7 @@ Once the paper is accepted, this README will be updated to include the journal c
 ├── data/                              # Data files used in simulations
 │
 ├── notebooks/                         # Jupyter notebooks for figure generation
-│   └── [various notebooks]            # Reproduces all figures from the manuscript
+│   └── [various notebooks]            # Reproduce all figures from the manuscript
 │
 ├── dynamical-systems-model-simulations/
 │   ├── flow_asym_double_well.py       # 4D dynamical system model (time evolution of mean and variance)
@@ -43,7 +40,7 @@ Once the paper is accepted, this README will be updated to include the journal c
 
 ## How to Run
 
-Clone the repository and install dependencies:
+Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/Dynamics-and-Complexity-Group/quantum-dynamics.git
@@ -51,25 +48,25 @@ cd quantum-dynamics/asym_double-well-tunneling
 pip install -r requirements.txt
 ```
 
-To reproduce figures from the manuscript, open and execute the notebooks in the `notebooks/` directory.
+To reproduce the figures from the manuscript, open and execute the notebooks in the `notebooks/` directory.
 
 ---
 
 ## Description
 
-The repository contains two complementary numerical approaches to study tunneling in an asymmetric double-well potential:
+This repository presents two complementary numerical approaches to study quantum tunneling in an asymmetric double-well potential:
 
 1. **Dynamical Systems Approach**  
-   Implements the reduced four-dimensional dynamical system derived from the Ehrenfest equations to model the time evolution of the mean and variance.
+   Implements a reduced four-dimensional dynamical system derived from the Ehrenfest equations to model the time evolution of the mean and variance of the wavepacket.
 
 2. **Time-Dependent Schrödinger Simulations**  
-   Solves the Schrödinger equation using the **Crank–Nicolson method** to visualize wavepacket tunneling between the two wells.
+   Solves the time-dependent Schrödinger equation using the **Crank–Nicolson method** to visualize wavepacket tunneling between the two wells.
 
 ---
 
 ## License
 
-This work is distributed under the **MIT License**.
+This project is distributed under the terms of the **MIT License**.
 
 ---
 
