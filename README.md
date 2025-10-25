@@ -9,7 +9,7 @@ Last updated: October 25, 2025
 **Authors:**  
 > **Swetamber Das** (ORCID: [0000-0002-2669-0842]) — swetamber.p@srmap.edu.in  
 > **Arghya Dutta** (ORCID: [0000-0003-2116-6475]) — arghya.d@srmap.edu.in  
-> Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
+> Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India.  
 
 We welcome any comments or suggestions for improvement.
 
