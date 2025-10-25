@@ -1,5 +1,4 @@
 # Dynamical System and Schrödinger Simulations for Quantum Tunneling in an Asymmetric Double-Well Potential
-# Last updated on October 24, 2025
 
 This repository contains Python codes and Jupyter notebooks accompanying the manuscript:
 
