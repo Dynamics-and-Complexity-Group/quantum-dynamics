@@ -1,11 +1,12 @@
-# Dynamical System and Schrödinger Simulations for Quantum Tunneling in an Asymmetric Double-Well Potential
+## Dynamical System and Schrödinger Simulations for Quantum Tunneling in an Asymmetric Double-Well Potential
 
 This repository contains Python codes and Jupyter notebooks accompanying the manuscript:
 
-> **Swetamber Das** (ORCID: [0000-0002-2669-0842])  swetamber.p@srmap.edu.in
+> **Swetamber Das** (ORCID: [0000-0002-2669-0842]) swetamber.p@srmap.edu.in
 > **Arghya Dutta** (ORCID: [0000-0003-2116-6475])  arghya.d@srmap.edu.in
 > Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
 
+Any comments or suggestions are most welcome.
 ---
 
 ## Manuscript Status
@@ -13,6 +14,7 @@ This repository contains Python codes and Jupyter notebooks accompanying the man
 *This repository accompanies a manuscript currently under review.*  
 Once the paper is accepted, this README will be updated to include the journal citation and DOI.
 
+Last updated: October 25, 2025
 ---
 
 ## Repository Structure
@@ -25,9 +27,9 @@ Once the paper is accepted, this README will be updated to include the journal c
 │   └── [various notebooks]            # Reproduces all figures from the manuscript
 │
 ├── dynamical-systems-model-simulations/
-│   ├── flow_asym_double_well.py       # 4D dynamical system model (mean–variance evolution)
-│   ├── time_series_left_to_right.ipynb# Time evolution: left → right well transition
-│   └── time_series_right_to_left.ipynb# Time evolution: right → left well transition
+│   ├── flow_asym_double_well.py       # 4D dynamical system model (time evolution of mean and variance)
+│   ├── time_series_left_to_right.ipynb# Time evolution: left → right well tunneling
+│   └── time_series_right_to_left.ipynb# Time evolution: right → left well tunneling
 │
 ├── schroedinger-simulations/
 │   ├── left-to-right-tunneling.py     # Crank–Nicolson solver for left → right tunneling
