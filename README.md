@@ -40,7 +40,7 @@ This repository accompanies a manuscript currently under review. Once the paper 
 
 ## How to Run
 
-Download this Zenodo package and install the dependencies:
+Download this package and install the dependencies:
 
 ```bash
 cd asym-double-well-tunneling-revised
