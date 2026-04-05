@@ -43,7 +43,7 @@ This repository accompanies a manuscript currently under review. Once the paper 
 Download this package and install the dependencies:
 
 ```bash
-cd asym-double-well-tunneling-revised
+cd quantum-dynamics
 pip install -r requirements.txt
 ```
 
@@ -57,12 +57,19 @@ The repository contains two complementary numerical approaches to study tunnelin
    Implements the reduced four-dimensional dynamical system derived from the Ehrenfest equations to model the time evolution of the mean and variance.
 
 2. **Time-Dependent Schrödinger Simulations**  
-   Solves the Schrödinger equation using the **Crank–Nicolson method** to visualize wavepacket tunneling between the two wells.
+   Solves the Schrödinger equation using the **Crank–Nicolson method** to visualize wave packet tunneling between the two wells.
 
 
 ## License
 
 This work is distributed under the **MIT License**.
+
+## Citation
+
+If you use this repository, please cite the associated manuscript. Once the paper is accepted, this README will be updated with the journal reference and DOI.
+
+For archival citation, please cite the Zenodo record associated with the GitHub release you used.
+
 
 ## Keywords
 
