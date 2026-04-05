@@ -1,22 +1,17 @@
 # Dynamical System and Schrödinger Simulations for Quantum Tunneling in an Asymmetric Double-Well Potential
-# Last updated on April 4, 2026
 
 This repository contains Python codes and Jupyter notebooks accompanying the manuscript:
 
-> **Swetamber Das** (ORCID: [0000-0002-2669-0842])  swetamber.p@srmap.edu.in
-> **Arghya Dutta** (ORCID: [0000-0003-2116-6475])  arghya.d@srmap.edu.in
-> Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
+- Swetamber Das (ORCID: 0000-0002-2669-0842)  swetamber.p@srmap.edu.in
+- Arghya Dutta (ORCID: 0000-0003-2116-6475)  arghya.d@srmap.edu.in
+- Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
 
----
+## Manuscript Status
 
-## 🧩 Manuscript Status
+This repository accompanies a manuscript currently under review. Once the paper is accepted, this README will be updated to include the journal citation and DOI.
 
-*This repository accompanies a manuscript currently under review.*  
-Once the paper is accepted, this README will be updated to include the journal citation and DOI.
 
----
-
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -43,9 +38,7 @@ Once the paper is accepted, this README will be updated to include the journal c
 └── README.md                          # Project description
 ```
 
----
-
-## ▶️ How to Run
+## How to Run
 
 Download this Zenodo package and install the dependencies:
 
@@ -56,9 +49,7 @@ pip install -r requirements.txt
 
 To reproduce figures from the manuscript, open and execute the notebooks in the `notebooks/` directory. The supporting dynamical-systems notebooks are in `dynamical-systems-model-solution/`, and the Schrödinger simulation scripts are in `schroedinger-simulations/`.
 
----
-
-## 🧠 Description
+## Description
 
 The repository contains two complementary numerical approaches to study tunneling in an asymmetric double-well potential:
 
@@ -68,15 +59,12 @@ The repository contains two complementary numerical approaches to study tunnelin
 2. **Time-Dependent Schrödinger Simulations**  
    Solves the Schrödinger equation using the **Crank–Nicolson method** to visualize wavepacket tunneling between the two wells.
 
----
 
-## 📘 License
+## License
 
 This work is distributed under the **MIT License**.
 
----
-
-## 🏷️ Keywords
+## Keywords
 
 Quantum tunneling, asymmetric double-well potential, Crank–Nicolson method,  
 Ehrenfest dynamics, dynamical systems, wavepacket dynamics, nonlinear physics.
