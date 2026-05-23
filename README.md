@@ -6,10 +6,6 @@ This repository contains Python codes and Jupyter notebooks accompanying the man
 - Arghya Dutta (ORCID: 0000-0003-2116-6475)  arghya.d@srmap.edu.in
 - Department of Physics, SRM University-AP, Amaravati 522240, Andhra Pradesh, India  
 
-## Manuscript Status
-
-This repository accompanies a manuscript currently under review. Once the paper is accepted, this README will be updated to include the journal citation and DOI.
-
 
 ## Repository Structure
 
@@ -66,9 +62,9 @@ This work is distributed under the **MIT License**.
 
 ## Citation
 
-If you use this repository, please cite the associated manuscript. Once the paper is accepted, this README will be updated with the journal reference and DOI.
+If you use this repository, please cite the associated manuscript. For archival citation, please cite the Zenodo record associated with the GitHub release you used.
 
-For archival citation, please cite the Zenodo record associated with the GitHub release you used.
+Swetamber Das, Arghya Dutta; Dynamical system analysis of quantum tunneling in an asymmetric double-well potential; Physics Letters A, 589, 2026, 131794, https://doi.org/10.1016/j.physleta.2026.131794.
 
 
 ## Keywords
